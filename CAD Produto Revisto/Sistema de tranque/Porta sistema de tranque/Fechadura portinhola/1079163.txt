@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-19052020-053015";"";
+"REFERENCE";"05070230E";"";
+"TraceParts.PartTitle";"Cylinder Locking Cam Latches";"";
+"TraceParts.InstanceId";"90-19052020-0530156U0WFGK56SACN5NLDN5NOZSOJ";"";
+"DESIGN";"Key Latch Housing Height - 16.5 mm | 0.65 in Key Type:Non - Removable Key Cam Length - 45.0 mm | 1.772 in Finish - Chrome Plated";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Essentra Components";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ESSENTRA_COMPONENTS:90-19052020-053015";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06042020-107911";"";
+"REFERENCE";"XSAV1562513";"";
+"TraceParts.PartTitle";"inductive sensor XSAV";"";
+"TraceParts.InstanceId";"10-06042020-1079117V8I6XYQL8RBB4CMKL1LD8403";"";
+"DESIGN";"inductive sensor XSAV";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Telemecanique Sensors";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TELEMECANIQUE_SENSORS:10-06042020-107911";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15072013-101322";"";
+"REFERENCE";"GG.AL510";"";
+"TraceParts.PartTitle";"012E - MTC. - Latch clamps - Steel";"";
+"TraceParts.InstanceId";"10-15072013-10132229CNT4X939091NXMB401AT8J0";"";
+"DESIGN";"MTC.700-T2";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ELESA";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ELESA:10-15072013-101322";"";
