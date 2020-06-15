@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"material";"Zinc Die-cast";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"HepcoMotion";"";
+"mass";"0.13kg/ea";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-05072019-079271";"";
+"finish";"Chrome Plated";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Hinge (Die-cast) - 1-243-6073";"";
+"TraceParts.InstanceId";"10-05072019-0792714CCI5YOPFDJYN9XDEQOPFUT5X";"";
+"TraceParts.PartTitle";"Hinges (Die-cast)";"";
+"REFERENCE";"1-243-6073";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"HEPCO_MOTION:10-05072019-079271";"";
